@@ -7,3 +7,4 @@ Exploratory data analysis of the e-commerce sales data from the Online Retail Da
 - NumPy
 - Seaborn
 - Matplotlib
+- Jupyter Notebook
