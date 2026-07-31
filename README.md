@@ -76,11 +76,11 @@ Sales peaked during the holiday season, with November generating the highest rev
 
 Home & Business Decor generated the highest overall revenue.
 
-### Cancellations by Category
+### Customer Retention
 
-![Cancellations by Category](visualizations/cancels_by_category.png)
+![Customer Retention](visualizations/customer_types.png)
 
-Kitchen & Dinner had the most cancellations.
+Most customers are returning customers.
 
 View `visualizations` folder to see all the visualizations.
 
@@ -92,6 +92,7 @@ View `visualizations` folder to see all the visualizations.
 - The United Kingdom accounted for the majority of orders and revenue, while several European countries represented the strongest international markets.
 - Cancellation rates decreased from 2010 to 2011, suggesting improved customer satisfaction.
 - Kitchen & Dinner products experienced one of the highest cancellation rates among all product categories. This may be related to the fragile nature of many kitchenware items, although the dataset does not include return reasons to confirm the cause.
+- Most of the customers are returning customers, and a relatively small group of returning customers generated a disproportionately large share of total revenue, highlighting the importance of customer retention.
 
 ## Recommendations
 
@@ -101,6 +102,7 @@ View `visualizations` folder to see all the visualizations.
 - Expand marketing and distribution efforts in high-performing European markets to further increase international sales.
 - Investigate the causes of cancellations within the Kitchen & Dinner category by reviewing customer feedback, return reasons, and packaging practices. If fragile products are contributing to cancellations, consider improving protective packaging to reduce damage during shipping.
 - Continue monitoring sales trends by product category to identify emerging customer preferences and optimize inventory planning.
+- Target repeat customers with personalized promotions and rewards, as returning customers contribute a significant portion of overall revenue.
 - Implement automated data validation checks to reduce pricing and quantity entry errors and improve the accuracy of future reporting.
 
 ## Limitations
